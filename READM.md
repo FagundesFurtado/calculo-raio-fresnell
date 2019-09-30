@@ -1,3 +1,7 @@
-Sistema para o calculo do raio de fresnell no 6º periodo do curso de Engenharia de Computação  
-Disciplina de Sistemas Operacionais  
-IF Sul de Minas - Campus Poços de Caldas
+# Raio de Fresnell
+
+Sistema Java desenvolvido na matéria de **Propagação de Ondas Eletromagnética** pelo curso **Engenharia de Computação - Instituto Federal do Sul de Minas Gerais Campus Poços de Caldas**
+
+# Objetivo
+
+O programa tem o intuito de calcular e prever se será possível estabelecer comunicação entre duas antenas, a partir do relevo do local, ganho das antenas(dB) e suas respectivas alturas.
